@@ -38,7 +38,7 @@ const Services = () => {
 					<ul className="service__list">
 						<li>
 							<FaTools className="service__list-icon" />
-							<p>BReact</p>
+							<p>React</p>
 						</li>
 						<li>
 							<FaTools className="service__list-icon" />
