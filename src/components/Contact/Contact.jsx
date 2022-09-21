@@ -95,7 +95,7 @@ const Contact = () => {
 						required
 					/>
 					<button type="submit" className="btn btn-primary">
-						Enviar mensaje
+						Send Message
 					</button>
 				</form>
 			</div>
