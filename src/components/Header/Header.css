@@ -15,6 +15,7 @@ header {
 .header__container h1 {
 	font-family: 'Red Hat Text', sans-serif;
 	font-size: 700;
+	color: var(--color-white);
 }
 
 .header__container h4 {
