@@ -45,7 +45,7 @@ const About = () => {
 							tecnology,animals,football, listen music and watch movies and TV
 							series.
 						</p>
-
+						<br />
 						<p>
 							Since I was little I was very curious and skillful about the
 							devices and everything related to the tecnology. Then it appeared
