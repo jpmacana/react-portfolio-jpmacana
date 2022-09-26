@@ -16,9 +16,9 @@ const data = [
 	{
 		id: 2,
 		image: imgPe,
-		title: 'Buscador de Peliculas',
-		github: 'https://github.com/jpmacana/peliculas-app-macana',
-		demo: 'https://peliculas-app-macana.vercel.app/',
+		title: 'Netflix Clone',
+		github: 'https://github.com/jpmacana/netflix-clone-react-firebase',
+		demo: 'https://netflix-clone-react-macana.web.app/',
 	},
 ];
 
