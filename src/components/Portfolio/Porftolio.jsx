@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
 import imgPi from '../../assets/pi-videogames-main-nine.vercel.app.png';
-import imgPe from '../../assets/peliculas-app-macana.vercel.app.png';
+import imgPe from '../../assets/netflix-clone.png';
 import './Portfolio.css';
 
 const data = [
@@ -33,7 +33,7 @@ const Porftolio = () => {
 					return (
 						<article key={id} className="portfolio__item">
 							<div className="portfolio__item-image">
-								<img src={image} alt="Image of PI Videogames" />
+								<img src={image} alt={image} />
 							</div>
 
 							<h3>{title}</h3>
