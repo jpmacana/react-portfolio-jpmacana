@@ -2,6 +2,7 @@
 import React from 'react';
 import imgPi from '../../assets/pi-videogames-main-nine.vercel.app.png';
 import imgPe from '../../assets/netflix-clone.png';
+import imgWe from '../../assets/weather-app.png';
 import './Portfolio.css';
 
 const data = [
@@ -19,6 +20,14 @@ const data = [
 		title: 'Netflix Clone',
 		github: 'https://github.com/jpmacana/netflix-clone-react-firebase',
 		demo: 'https://netflix-clone-react-macana.web.app/',
+	},
+
+	{
+		id: 3,
+		image: imgWe,
+		title: 'Weather App',
+		github: 'https://github.com/jpmacana/weather-app-react-macana',
+		demo: 'https://weather-app-macana.netlify.app',
 	},
 ];
 
