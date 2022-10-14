@@ -43,7 +43,7 @@ const data = [
 		image: imgTr,
 		title: 'Travel World App',
 		github: 'https://github.com/jpmacana/travel-world-app',
-		demo: 'https://travel-site-macana.netlify.app/',
+		demo: 'https://travel-world-app-jpmacana.vercel.app/',
 	},
 ];
 
