@@ -4,6 +4,7 @@ import imgPi from '../../assets/pi-videogames-main-nine.vercel.app.png';
 import imgPe from '../../assets/netflix-clone.png';
 import imgWe from '../../assets/weather-app.png';
 import imgMo from '../../assets/momemtum-app.png';
+import imgTr from '../../assets/travel-app.png';
 import './Portfolio.css';
 
 const data = [
@@ -36,6 +37,13 @@ const data = [
 		title: 'Momemtun App',
 		github: 'https://github.com/jpmacana/momentum-clone',
 		demo: 'https://momentum-clone-macana.vercel.app/',
+	},
+	{
+		id: 5,
+		image: imgTr,
+		title: 'Travel World App',
+		github: 'https://github.com/jpmacana/travel-world-app',
+		demo: 'https://travel-site-macana.netlify.app/',
 	},
 ];
 
