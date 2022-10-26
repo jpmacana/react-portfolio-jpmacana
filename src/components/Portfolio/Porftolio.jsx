@@ -5,6 +5,7 @@ import imgPe from '../../assets/netflix-clone.png';
 import imgWe from '../../assets/weather-app.png';
 import imgMo from '../../assets/momemtum-app.png';
 import imgTr from '../../assets/travel-app.png';
+import imgTd from '../../assets/todo-app.png';
 import './Portfolio.css';
 
 const data = [
@@ -44,6 +45,13 @@ const data = [
 		title: 'Travel World App',
 		github: 'https://github.com/jpmacana/travel-world-app',
 		demo: 'https://travel-world-app-jpmacana.vercel.app/',
+	},
+	{
+		id: 6,
+		image: imgTd,
+		title: 'To Do App',
+		github: 'https://github.com/jpmacana/to-do-react',
+		demo: 'https://todo-macana-react.netlify.app/',
 	},
 ];
 
